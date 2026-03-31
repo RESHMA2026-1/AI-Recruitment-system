@@ -12,7 +12,7 @@ match_count = 0
 
 for skill in required_skills:
     if skill in candidate_skills:
-        match_count += 1
+        match_count += 1 
 
 score = (match_count / len(required_skills)) * 100
 
