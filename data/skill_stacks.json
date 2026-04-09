@@ -1,0 +1,4 @@
+{
+  "mern": ["mongodb", "express", "react", "nodejs"],
+  "mean": ["mongodb", "express", "angular", "nodejs"]
+}

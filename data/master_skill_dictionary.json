@@ -1,0 +1,20 @@
+{
+  "technical": {
+    "python": ["py"],
+    "javascript": ["js"],
+    "machine learning": ["ml"],
+    "react": [],
+    "nodejs": []
+  },
+
+  "business": {
+    "leadership": [],
+    "communication": [],
+    "project management": ["pm"]
+  },
+
+  "creative": {
+    "graphic design": [],
+    "video editing": []
+  }
+}
